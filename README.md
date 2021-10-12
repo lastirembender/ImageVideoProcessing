@@ -5,6 +5,7 @@
 - planets.ipynb : Notebook containing an example of specifying a circular line using cv2.HoughCircles()
 - Cifar10.ipynb : An image classification model that includes a Convolutional Neural Network application
 - personDetection.ipynb :  Identifying people walking with a crowded group using the OpenCV library
+- l06c02_exercise_flowers_with_transfer_learning.ipynb : Udacity "Intro to TensorFlow for Deep Learning" course homework
 
 ## Libraries Used
 
